@@ -1,4 +1,4 @@
-# Insights into the UIUC student population
+# Forecasting the UIUC student population
 
 ## Organization Name
 University of Illinois at Urbana-Champaign
