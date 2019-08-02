@@ -7,10 +7,10 @@ University of Illinois at Urbana-Champaign
 The University of Illinois has a very diverse student body. It welcomes students from all over the world and from diverse socioeconomic backgrounds. The goal of this project is to provide some meaningful insights into different aspects of the University's student population (e.g., enrollment, graduation rates, financial aid, etc.).
 
 ## Problem Statement
-Use the information in the provided sources (and/or any other external sources if you would like) to provide meaningful insights into the UIUC student population. Some ideas include predicting future class enrollment based on historical trends (to properly allocate resources), the diversity of the student body in the years to come, who is most likely to need financial aid, who is most likely to drop out and potential reasons why, or even a data visualization showing changes in student demographics over the years. The project is very open as long as you provide some insights related to the University.
+Forecasting UIUC enrollment is a valuable endeavor to help understand the future viability of various parts of the university and provide insights into allocation of resources.  The forecast can be granular broken out by undergraduate and graduate programs, or can be an overall forecast.
 
 ## Evaluation criteria
-Meaningful insights into UIUC demographics
+Minimum mean absolute percentage error (MAPE) in forecasting UIUC enrollment
 
 ## Data Details
 There is a lot of information and datasets that can help you address this challenge. Here are some helpful links:
